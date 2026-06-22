@@ -1,3 +1,6 @@
+<p align="center">
+    <img src="assets/Logo_Ilum.png" alt = "Logo Ilum" widht="100%">
+</p>
 # Projeto_Final_Simulador_de_Epidemia(SIR)
 
 ## Informações do Autor
